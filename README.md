@@ -52,7 +52,7 @@ A machine learning approach to uncover nonlinear relationships in the data. Usin
 ---
 
 ## **Future Directions**
-- Transform vaccination schemes into sequence-to-sequence datasets for more granular predictions.
+- Transform vaccination schemes into sequence-to-sequence datasets for more precise predictions.
 - Explore reinforcement learning, such as Q-learning, to optimize vaccination schedules.
 
 ---
