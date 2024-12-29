@@ -1,0 +1,881 @@
+Dataset,Subject,Time,Binding,Vaccine Scheme,Figure
+2016 Tam,Mouse_1,Day7,0.016577,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_1,Day14,10.4716,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_1,Day21,8.825876,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_1,Day28,56.63966,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_1,Day35,77.85953,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_1,Day42,89.49092,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_1,Day49,84.68372,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_1,Day56,52.14862,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_1,Day63,92.5013,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_1,Day70,128.0774,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_1,Day77,80.24887,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_1,Day84,79.37682,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_1,Day125,51.6893,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_1,Day139,29.7263,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_2,Day7,0.037463,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_2,Day14,3.005803,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_2,Day21,2.991009,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_2,Day28,12.01145,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_2,Day35,12.03274,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_2,Day42,8.744988,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_2,Day49,9.632133,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_2,Day56,9.12144,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_2,Day63,9.796851,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_2,Day70,10.82445,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_2,Day77,10.79922,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_2,Day84,9.081924,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_2,Day125,10.89659,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_2,Day139,6.978771,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_3,Day7,0.082242,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_3,Day14,9.998143,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_3,Day21,3.438225,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_3,Day28,13.66212,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_3,Day35,11.3532,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_3,Day42,11.84923,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_3,Day49,7.585487,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_3,Day56,8.667974,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_3,Day63,9.480724,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_3,Day70,8.141675,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_3,Day77,7.432139,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_3,Day84,5.680658,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_3,Day125,5.432451,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_3,Day139,6.371856,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_4,Day7,0.038904,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_4,Day14,6.239514,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_4,Day21,4.536165,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_4,Day28,29.14868,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_4,Day35,20.97675,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_4,Day42,23.4358,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_4,Day49,24.03637,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_4,Day56,23.20534,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_4,Day63,21.41085,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_4,Day70,25.69408,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_4,Day77,21.52785,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_4,Day84,19.85561,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_4,Day125,12.63113,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_4,Day139,10.364,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_5,Day7,0.023394,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_5,Day14,8.122602,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_5,Day21,3.983698,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_5,Day28,33.33221,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_5,Day35,37.60399,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_5,Day42,42.3504,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_5,Day49,31.85523,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_5,Day56,14.74326,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_5,Day63,36.95768,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_5,Day70,46.45653,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_5,Day77,32.75071,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_5,Day84,26.96649,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_5,Day125,16.99425,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_5,Day139,13.3676,Exp-inc,Fig1C-Blue
+2016 Tam,Mouse_6,Day7,0.223733,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_6,Day14,1.299696,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_6,Day21,1.171285,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_6,Day28,11.09144,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_6,Day35,14.07505,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_6,Day42,13.20137,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_6,Day49,15.15325,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_6,Day56,12.30235,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_6,Day63,8.282596,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_6,Day70,12.38801,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_6,Day77,14.23471,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_6,Day84,14.78691,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_6,Day125,9.312757,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_6,Day139,8.83132,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_7,Day7,0.24902,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_7,Day14,0.704448,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_7,Day21,0.481067,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_7,Day28,11.15009,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_7,Day35,10.14481,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_7,Day42,10.02331,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_7,Day49,9.890443,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_7,Day56,7.050255,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_7,Day63,8.170758,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_7,Day70,9.363772,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_7,Day77,8.169378,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_7,Day84,7.545209,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_7,Day125,5.783886,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_7,Day139,4.897196,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_8,Day7,0.089087,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_8,Day14,0.620267,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_8,Day21,0.414946,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_8,Day28,2.560788,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_8,Day35,4.214208,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_8,Day42,4.105949,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_8,Day49,5.308673,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_8,Day56,4.279164,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_8,Day63,6.260236,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_8,Day70,5.430827,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_8,Day77,5.000824,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_8,Day84,7.497491,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_8,Day125,2.166065,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_8,Day139,2.062633,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_9,Day7,0.046214,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_9,Day14,0.473119,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_9,Day21,0.602423,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_9,Day28,8.464193,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_9,Day35,8.306277,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_9,Day42,8.030838,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_9,Day49,7.82089,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_9,Day56,6.639122,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_9,Day63,6.465627,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_9,Day70,6.44288,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_9,Day77,8.29011,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_9,Day84,6.052839,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_9,Day125,2.174773,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_9,Day139,1.545655,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_10,Day7,0.150518,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_10,Day14,1.036662,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_10,Day21,0.744229,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_10,Day28,5.800892,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_10,Day35,6.590235,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_10,Day42,7.996136,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_10,Day49,8.419632,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_10,Day56,28.04081,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_10,Day63,8.780947,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_10,Day70,7.794261,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_10,Day77,5.887322,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_10,Day84,8.967213,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_10,Day125,4.241291,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_10,Day139,3.009411,Exp-dec,Fig1C-Green
+2016 Tam,Mouse_11,Day7,0.216479,Constant,Fig1C-Yellow
+2016 Tam,Mouse_11,Day14,4.677015,Constant,Fig1C-Yellow
+2016 Tam,Mouse_11,Day21,2.040569,Constant,Fig1C-Yellow
+2016 Tam,Mouse_11,Day28,10.29631,Constant,Fig1C-Yellow
+2016 Tam,Mouse_11,Day35,10.35004,Constant,Fig1C-Yellow
+2016 Tam,Mouse_11,Day42,9.315298,Constant,Fig1C-Yellow
+2016 Tam,Mouse_11,Day49,12.76299,Constant,Fig1C-Yellow
+2016 Tam,Mouse_11,Day56,7.831457,Constant,Fig1C-Yellow
+2016 Tam,Mouse_11,Day63,9.458874,Constant,Fig1C-Yellow
+2016 Tam,Mouse_11,Day70,9.88883,Constant,Fig1C-Yellow
+2016 Tam,Mouse_11,Day77,8.330437,Constant,Fig1C-Yellow
+2016 Tam,Mouse_11,Day84,16.38431,Constant,Fig1C-Yellow
+2016 Tam,Mouse_11,Day125,4.304096,Constant,Fig1C-Yellow
+2016 Tam,Mouse_11,Day139,5.73265,Constant,Fig1C-Yellow
+2016 Tam,Mouse_12,Day7,0.090709,Constant,Fig1C-Yellow
+2016 Tam,Mouse_12,Day14,2.001076,Constant,Fig1C-Yellow
+2016 Tam,Mouse_12,Day21,1.452399,Constant,Fig1C-Yellow
+2016 Tam,Mouse_12,Day28,10.30928,Constant,Fig1C-Yellow
+2016 Tam,Mouse_12,Day35,8.494105,Constant,Fig1C-Yellow
+2016 Tam,Mouse_12,Day42,8.283527,Constant,Fig1C-Yellow
+2016 Tam,Mouse_12,Day49,11.69714,Constant,Fig1C-Yellow
+2016 Tam,Mouse_12,Day56,12.11321,Constant,Fig1C-Yellow
+2016 Tam,Mouse_12,Day63,10.64214,Constant,Fig1C-Yellow
+2016 Tam,Mouse_12,Day70,11.1376,Constant,Fig1C-Yellow
+2016 Tam,Mouse_12,Day77,9.777461,Constant,Fig1C-Yellow
+2016 Tam,Mouse_12,Day84,15.3142,Constant,Fig1C-Yellow
+2016 Tam,Mouse_12,Day125,4.448494,Constant,Fig1C-Yellow
+2016 Tam,Mouse_12,Day139,4.965694,Constant,Fig1C-Yellow
+2016 Tam,Mouse_13,Day7,0.172887,Constant,Fig1C-Yellow
+2016 Tam,Mouse_13,Day14,4.036566,Constant,Fig1C-Yellow
+2016 Tam,Mouse_13,Day21,2.743407,Constant,Fig1C-Yellow
+2016 Tam,Mouse_13,Day28,10.21125,Constant,Fig1C-Yellow
+2016 Tam,Mouse_13,Day35,14.39765,Constant,Fig1C-Yellow
+2016 Tam,Mouse_13,Day42,13.82155,Constant,Fig1C-Yellow
+2016 Tam,Mouse_13,Day49,16.19494,Constant,Fig1C-Yellow
+2016 Tam,Mouse_13,Day56,21.64638,Constant,Fig1C-Yellow
+2016 Tam,Mouse_13,Day63,18.25288,Constant,Fig1C-Yellow
+2016 Tam,Mouse_13,Day70,18.1834,Constant,Fig1C-Yellow
+2016 Tam,Mouse_13,Day77,21.36755,Constant,Fig1C-Yellow
+2016 Tam,Mouse_13,Day84,17.3132,Constant,Fig1C-Yellow
+2016 Tam,Mouse_13,Day125,1.511348,Constant,Fig1C-Yellow
+2016 Tam,Mouse_13,Day139,11.95075,Constant,Fig1C-Yellow
+2016 Tam,Mouse_14,Day7,0.4545,Constant,Fig1C-Yellow
+2016 Tam,Mouse_14,Day14,6.066622,Constant,Fig1C-Yellow
+2016 Tam,Mouse_14,Day21,3.314121,Constant,Fig1C-Yellow
+2016 Tam,Mouse_14,Day28,13.56956,Constant,Fig1C-Yellow
+2016 Tam,Mouse_14,Day35,13.47921,Constant,Fig1C-Yellow
+2016 Tam,Mouse_14,Day42,10.83519,Constant,Fig1C-Yellow
+2016 Tam,Mouse_14,Day49,16.78697,Constant,Fig1C-Yellow
+2016 Tam,Mouse_14,Day56,11.12423,Constant,Fig1C-Yellow
+2016 Tam,Mouse_14,Day63,10.92667,Constant,Fig1C-Yellow
+2016 Tam,Mouse_14,Day70,10.17964,Constant,Fig1C-Yellow
+2016 Tam,Mouse_14,Day77,11.21705,Constant,Fig1C-Yellow
+2016 Tam,Mouse_14,Day84,13.84705,Constant,Fig1C-Yellow
+2016 Tam,Mouse_14,Day125,8.483186,Constant,Fig1C-Yellow
+2016 Tam,Mouse_14,Day139,4.781693,Constant,Fig1C-Yellow
+2016 Tam,Mouse_15,Day7,0.21494,Constant,Fig1C-Yellow
+2016 Tam,Mouse_15,Day14,4.475849,Constant,Fig1C-Yellow
+2016 Tam,Mouse_15,Day21,3.183333,Constant,Fig1C-Yellow
+2016 Tam,Mouse_15,Day28,17.60916,Constant,Fig1C-Yellow
+2016 Tam,Mouse_15,Day35,21.59421,Constant,Fig1C-Yellow
+2016 Tam,Mouse_15,Day42,16.81841,Constant,Fig1C-Yellow
+2016 Tam,Mouse_15,Day49,17.43466,Constant,Fig1C-Yellow
+2016 Tam,Mouse_15,Day56,19.34612,Constant,Fig1C-Yellow
+2016 Tam,Mouse_15,Day63,18.15142,Constant,Fig1C-Yellow
+2016 Tam,Mouse_15,Day70,17.97423,Constant,Fig1C-Yellow
+2016 Tam,Mouse_15,Day77,30.08921,Constant,Fig1C-Yellow
+2016 Tam,Mouse_15,Day84,16.94679,Constant,Fig1C-Yellow
+2016 Tam,Mouse_15,Day125,0.892708,Constant,Fig1C-Yellow
+2016 Tam,Mouse_15,Day139,8.750155,Constant,Fig1C-Yellow
+2016 Tam,Mouse_16,Day7,0.062329,Bolus,Fig1C-Red
+2016 Tam,Mouse_16,Day14,0.087066,Bolus,Fig1C-Red
+2016 Tam,Mouse_16,Day21,0.139657,Bolus,Fig1C-Red
+2016 Tam,Mouse_16,Day28,2.072603,Bolus,Fig1C-Red
+2016 Tam,Mouse_16,Day35,8.626384,Bolus,Fig1C-Red
+2016 Tam,Mouse_16,Day42,11.85694,Bolus,Fig1C-Red
+2016 Tam,Mouse_16,Day49,10.32965,Bolus,Fig1C-Red
+2016 Tam,Mouse_16,Day56,8.895981,Bolus,Fig1C-Red
+2016 Tam,Mouse_16,Day63,9.75104,Bolus,Fig1C-Red
+2016 Tam,Mouse_16,Day70,9.65058,Bolus,Fig1C-Red
+2016 Tam,Mouse_16,Day77,11.37195,Bolus,Fig1C-Red
+2016 Tam,Mouse_16,Day84,8.81479,Bolus,Fig1C-Red
+2016 Tam,Mouse_16,Day125,5.026772,Bolus,Fig1C-Red
+2016 Tam,Mouse_16,Day139,3.837612,Bolus,Fig1C-Red
+2016 Tam,Mouse_17,Day7,0.033422,Bolus,Fig1C-Red
+2016 Tam,Mouse_17,Day14,0.871093,Bolus,Fig1C-Red
+2016 Tam,Mouse_17,Day21,0.775874,Bolus,Fig1C-Red
+2016 Tam,Mouse_17,Day28,5.69638,Bolus,Fig1C-Red
+2016 Tam,Mouse_17,Day35,7.611693,Bolus,Fig1C-Red
+2016 Tam,Mouse_17,Day42,10.1817,Bolus,Fig1C-Red
+2016 Tam,Mouse_17,Day49,10.48006,Bolus,Fig1C-Red
+2016 Tam,Mouse_17,Day56,10.5601,Bolus,Fig1C-Red
+2016 Tam,Mouse_17,Day63,8.480262,Bolus,Fig1C-Red
+2016 Tam,Mouse_17,Day70,9.083342,Bolus,Fig1C-Red
+2016 Tam,Mouse_17,Day77,9.930858,Bolus,Fig1C-Red
+2016 Tam,Mouse_17,Day84,8.125062,Bolus,Fig1C-Red
+2016 Tam,Mouse_17,Day125,3.977618,Bolus,Fig1C-Red
+2016 Tam,Mouse_17,Day139,4.609733,Bolus,Fig1C-Red
+2016 Tam,Mouse_18,Day7,0.08599,Bolus,Fig1C-Red
+2016 Tam,Mouse_18,Day14,0.660449,Bolus,Fig1C-Red
+2016 Tam,Mouse_18,Day21,0.358593,Bolus,Fig1C-Red
+2016 Tam,Mouse_18,Day28,3.250728,Bolus,Fig1C-Red
+2016 Tam,Mouse_18,Day35,6.704809,Bolus,Fig1C-Red
+2016 Tam,Mouse_18,Day42,4.450679,Bolus,Fig1C-Red
+2016 Tam,Mouse_18,Day49,4.760833,Bolus,Fig1C-Red
+2016 Tam,Mouse_18,Day56,7.022513,Bolus,Fig1C-Red
+2016 Tam,Mouse_18,Day63,4.426054,Bolus,Fig1C-Red
+2016 Tam,Mouse_18,Day70,6.654605,Bolus,Fig1C-Red
+2016 Tam,Mouse_18,Day77,5.254712,Bolus,Fig1C-Red
+2016 Tam,Mouse_18,Day84,5.196591,Bolus,Fig1C-Red
+2016 Tam,Mouse_18,Day125,13.91921,Bolus,Fig1C-Red
+2016 Tam,Mouse_18,Day139,0.927147,Bolus,Fig1C-Red
+2016 Tam,Mouse_19,Day7,0.090438,Bolus,Fig1C-Red
+2016 Tam,Mouse_19,Day14,0.502032,Bolus,Fig1C-Red
+2016 Tam,Mouse_19,Day21,0.47453,Bolus,Fig1C-Red
+2016 Tam,Mouse_19,Day28,8.089917,Bolus,Fig1C-Red
+2016 Tam,Mouse_19,Day35,11.81263,Bolus,Fig1C-Red
+2016 Tam,Mouse_19,Day42,13.79931,Bolus,Fig1C-Red
+2016 Tam,Mouse_19,Day49,16.94104,Bolus,Fig1C-Red
+2016 Tam,Mouse_19,Day56,19.59128,Bolus,Fig1C-Red
+2016 Tam,Mouse_19,Day63,12.94503,Bolus,Fig1C-Red
+2016 Tam,Mouse_19,Day70,15.96401,Bolus,Fig1C-Red
+2016 Tam,Mouse_19,Day77,14.37359,Bolus,Fig1C-Red
+2016 Tam,Mouse_19,Day84,14.93463,Bolus,Fig1C-Red
+2016 Tam,Mouse_19,Day125,6.171942,Bolus,Fig1C-Red
+2016 Tam,Mouse_19,Day139,7.795269,Bolus,Fig1C-Red
+2016 Tam,Mouse_20,Day7,0.276012,Bolus,Fig1C-Red
+2016 Tam,Mouse_20,Day14,1.237083,Bolus,Fig1C-Red
+2016 Tam,Mouse_20,Day21,1.181403,Bolus,Fig1C-Red
+2016 Tam,Mouse_20,Day28,7.502205,Bolus,Fig1C-Red
+2016 Tam,Mouse_20,Day35,6.003029,Bolus,Fig1C-Red
+2016 Tam,Mouse_20,Day42,6.190324,Bolus,Fig1C-Red
+2016 Tam,Mouse_20,Day49,6.639122,Bolus,Fig1C-Red
+2016 Tam,Mouse_20,Day56,5.305316,Bolus,Fig1C-Red
+2016 Tam,Mouse_20,Day63,3.893053,Bolus,Fig1C-Red
+2016 Tam,Mouse_20,Day70,4.502321,Bolus,Fig1C-Red
+2016 Tam,Mouse_20,Day77,4.656411,Bolus,Fig1C-Red
+2016 Tam,Mouse_20,Day84,4.208274,Bolus,Fig1C-Red
+2016 Tam,Mouse_20,Day125,8.480433,Bolus,Fig1C-Red
+2016 Tam,Mouse_20,Day139,0.892708,Bolus,Fig1C-Red
+2016 Tam,Mouse_21,Day7,0.1,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_21,Day14,27.94078,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_21,Day21,19.17029,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_21,Day28,26.36527,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_21,Day35,24.73758,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_21,Day42,21.49009,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_21,Day49,35.73288,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_21,Day56,23.43741,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_21,Day63,45.50331,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_21,Day77,27.68372,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_21,Day91,17.26597,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_22,Day7,0.1,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_22,Day14,10.82128,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_22,Day21,3.882582,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_22,Day28,20.75868,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_22,Day35,14.54851,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_22,Day42,13.5449,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_22,Day49,13.55347,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_22,Day56,8.707424,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_22,Day63,26.49628,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_22,Day77,10.36373,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_22,Day91,7.884632,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_23,Day7,1.133349,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_23,Day14,0,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_23,Day21,3.915306,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_23,Day28,11.15273,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_23,Day35,10.02237,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_23,Day42,11.63422,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_23,Day49,16.24785,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_23,Day56,16.63601,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_23,Day63,48.08993,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_23,Day77,21.7416,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_23,Day91,18.49807,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_24,Day7,0.1,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_24,Day14,8.62693,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_24,Day21,2.73251,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_24,Day28,10.82377,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_24,Day35,14.60487,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_24,Day42,13.76342,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_24,Day49,24.74326,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_24,Day56,13.96219,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_24,Day63,23.90332,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_24,Day77,18.38083,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_24,Day91,16.59922,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_25,Day7,0.1,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_25,Day14,5.796994,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_25,Day21,4.442121,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_25,Day28,17.68403,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_25,Day35,19.94098,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_25,Day42,28.62855,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_25,Day49,49.51188,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_25,Day56,44.88758,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_25,Day63,96.73872,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_25,Day77,69.63625,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_25,Day91,48.75227,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_26,Day7,0.1,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_26,Day14,2.691496,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_26,Day21,4.191208,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_26,Day28,180.203,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_26,Day35,28.45502,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_26,Day42,29.62365,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_26,Day49,23.45652,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_26,Day56,42.93338,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_26,Day63,22.89327,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_26,Day77,16.20938,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_26,Day91,14.48739,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_27,Day7,0.1,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_27,Day14,6.846167,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_27,Day21,6.142015,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_27,Day28,42.11132,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_27,Day35,55.73107,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_27,Day42,66.32426,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_27,Day49,70.85957,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_27,Day56,148.2551,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_27,Day63,58.43393,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_27,Day77,40.71529,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_27,Day91,43.3504,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_28,Day7,8.050896,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_28,Day14,2.812767,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_28,Day21,2.013602,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_28,Day28,23.08123,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_28,Day35,60.2579,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_28,Day42,104.5742,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_28,Day49,129.5253,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_28,Day56,186.1317,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_28,Day63,184.3214,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_28,Day77,163.7085,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_28,Day91,132.1162,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_29,Day7,0.1,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_29,Day14,6.298006,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_29,Day21,6.19455,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_29,Day28,64.32382,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_29,Day35,79.56292,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_29,Day42,71.65427,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_29,Day49,66.96016,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_29,Day56,121.4733,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_29,Day63,49.08223,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_29,Day77,45.61094,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_29,Day91,38.1478,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_30,Day7,0.5002653,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_30,Day14,12.68298,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_30,Day21,8.822088,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_30,Day28,20.56324,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_30,Day35,15.48446,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_30,Day42,14.69753,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_30,Day49,11.454,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_30,Day56,31.82456,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_30,Day63,7.228927,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_30,Day77,2.971057,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_30,Day91,-2.142207,Exp Increase 1wk,Fig2C-Blue
+2016 Tam,Mouse_31,Day7,0.8607703,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_31,Day14,-,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_31,Day21,30.97445,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_31,Day28,22.5274,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_31,Day35,89.8941,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_31,Day42,133.2678,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_31,Day49,144.4761,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_31,Day56,113.7169,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_31,Day63,187.4503,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_31,Day77,102.2864,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_31,Day91,77.60854,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_32,Day7,1.065075,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_32,Day14,101.3444,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_32,Day21,148.5657,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_32,Day28,25.8955,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_32,Day35,206.2642,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_32,Day42,-,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_32,Day49,-,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_32,Day56,234.7374,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_32,Day63,-,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_32,Day77,-,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_32,Day91,-,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_33,Day7,0.1,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_33,Day14,32.23401,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_33,Day21,-,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_33,Day28,43.13202,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_33,Day35,168.7608,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_33,Day42,-,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_33,Day49,-,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_33,Day56,-,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_33,Day63,-,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_33,Day77,134.3335,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_33,Day91,132.7428,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_34,Day7,0.1,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_34,Day14,-,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_34,Day21,-,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_34,Day28,26.35855,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_34,Day35,68.23975,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_34,Day42,108.1865,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_34,Day49,141.9985,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_34,Day56,126.7329,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_34,Day63,147.9471,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_34,Day77,97.02924,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_34,Day91,99.49329,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_35,Day7,0.1,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_35,Day14,-,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_35,Day21,-,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_35,Day28,17.53053,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_35,Day35,55.8874,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_35,Day42,74.23905,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_35,Day49,78.00393,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_35,Day56,88.32806,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_35,Day63,68.75169,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_35,Day77,58.90275,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_35,Day91,50.75866,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_36,Day7,0.0405333,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_36,Day14,11.55253,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_36,Day21,22.12712,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_36,Day28,21.8047,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_36,Day35,104.5669,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_36,Day42,90.06842,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_36,Day49,79.44986,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_36,Day56,118.3707,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_36,Day63,74.74479,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_36,Day77,50.98301,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_36,Day91,46.20832,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_37,Day7,0.1,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_37,Day14,12.54016,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_37,Day21,25.22714,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_37,Day28,26.54677,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_37,Day35,203.6721,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_37,Day42,-,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_37,Day49,254.4255,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_37,Day56,-,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_37,Day63,-,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_37,Day77,151.315,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_37,Day91,145.0545,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_38,Day7,0.2809453,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_38,Day14,23.77241,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_38,Day21,18.16383,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_38,Day28,52.92432,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_38,Day35,163.3791,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_38,Day42,140.1067,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_38,Day49,97.84652,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_38,Day56,115.9003,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_38,Day63,87.06029,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_38,Day77,47.03642,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_38,Day91,34.96545,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_39,Day7,0.7805063,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_39,Day14,23.00551,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_39,Day21,20.21063,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_39,Day28,30.15788,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_39,Day35,177.0223,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_39,Day42,237.4574,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_39,Day49,135.0274,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_39,Day56,486.5504,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_39,Day63,272.7874,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_39,Day77,82.15224,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_39,Day91,80.86802,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_40,Day7,1.99948,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_40,Day14,18.62479,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_40,Day21,16.70551,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_40,Day28,17.07726,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_40,Day35,114.8136,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_40,Day42,199.318,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_40,Day49,157.8427,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_40,Day56,394.3969,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_40,Day63,168.4401,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_40,Day77,105.5514,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_40,Day91,82.58067,Exp Increase 2wk,Fig2C-Purple
+2016 Tam,Mouse_41,Day7,0.4284213,Bolus,Fig2C-Red
+2016 Tam,Mouse_41,Day14,0.1,Bolus,Fig2C-Red
+2016 Tam,Mouse_41,Day21,0.1,Bolus,Fig2C-Red
+2016 Tam,Mouse_41,Day28,0.6492847,Bolus,Fig2C-Red
+2016 Tam,Mouse_41,Day35,0.540032,Bolus,Fig2C-Red
+2016 Tam,Mouse_41,Day42,0.1353171,Bolus,Fig2C-Red
+2016 Tam,Mouse_41,Day49,0.7025001,Bolus,Fig2C-Red
+2016 Tam,Mouse_41,Day56,0.1,Bolus,Fig2C-Red
+2016 Tam,Mouse_41,Day63,0.4927871,Bolus,Fig2C-Red
+2016 Tam,Mouse_41,Day77,0.9824713,Bolus,Fig2C-Red
+2016 Tam,Mouse_41,Day91,0.1,Bolus,Fig2C-Red
+2016 Tam,Mouse_42,Day7,0.3600703,Bolus,Fig2C-Red
+2016 Tam,Mouse_42,Day14,0.3574969,Bolus,Fig2C-Red
+2016 Tam,Mouse_42,Day21,0.8084015,Bolus,Fig2C-Red
+2016 Tam,Mouse_42,Day28,9.439765,Bolus,Fig2C-Red
+2016 Tam,Mouse_42,Day35,8.912962,Bolus,Fig2C-Red
+2016 Tam,Mouse_42,Day42,6.709359,Bolus,Fig2C-Red
+2016 Tam,Mouse_42,Day49,7.484022,Bolus,Fig2C-Red
+2016 Tam,Mouse_42,Day56,7.863651,Bolus,Fig2C-Red
+2016 Tam,Mouse_42,Day63,8.077077,Bolus,Fig2C-Red
+2016 Tam,Mouse_42,Day77,11.81818,Bolus,Fig2C-Red
+2016 Tam,Mouse_42,Day91,6.011402,Bolus,Fig2C-Red
+2016 Tam,Mouse_43,Day7,0.1,Bolus,Fig2C-Red
+2016 Tam,Mouse_43,Day14,4.457585,Bolus,Fig2C-Red
+2016 Tam,Mouse_43,Day21,0.1,Bolus,Fig2C-Red
+2016 Tam,Mouse_43,Day28,3.415436,Bolus,Fig2C-Red
+2016 Tam,Mouse_43,Day35,8.383817,Bolus,Fig2C-Red
+2016 Tam,Mouse_43,Day42,6.276068,Bolus,Fig2C-Red
+2016 Tam,Mouse_43,Day49,11.33349,Bolus,Fig2C-Red
+2016 Tam,Mouse_43,Day56,9.842754,Bolus,Fig2C-Red
+2016 Tam,Mouse_43,Day63,11.04791,Bolus,Fig2C-Red
+2016 Tam,Mouse_43,Day77,12.12773,Bolus,Fig2C-Red
+2016 Tam,Mouse_43,Day91,8.831021,Bolus,Fig2C-Red
+2016 Tam,Mouse_44,Day7,0.4049843,Bolus,Fig2C-Red
+2016 Tam,Mouse_44,Day14,0.658249,Bolus,Fig2C-Red
+2016 Tam,Mouse_44,Day21,0.1,Bolus,Fig2C-Red
+2016 Tam,Mouse_44,Day28,6.047581,Bolus,Fig2C-Red
+2016 Tam,Mouse_44,Day35,9.944006,Bolus,Fig2C-Red
+2016 Tam,Mouse_44,Day42,15.50975,Bolus,Fig2C-Red
+2016 Tam,Mouse_44,Day49,17.43014,Bolus,Fig2C-Red
+2016 Tam,Mouse_44,Day56,15.05373,Bolus,Fig2C-Red
+2016 Tam,Mouse_44,Day63,16.99369,Bolus,Fig2C-Red
+2016 Tam,Mouse_44,Day77,17.77433,Bolus,Fig2C-Red
+2016 Tam,Mouse_44,Day91,13.25609,Bolus,Fig2C-Red
+2016 Tam,Mouse_45,Day7,1.171809,Bolus,Fig2C-Red
+2016 Tam,Mouse_45,Day14,0.1,Bolus,Fig2C-Red
+2016 Tam,Mouse_45,Day21,0.1,Bolus,Fig2C-Red
+2016 Tam,Mouse_45,Day28,0.7187617,Bolus,Fig2C-Red
+2016 Tam,Mouse_45,Day35,2.197856,Bolus,Fig2C-Red
+2016 Tam,Mouse_45,Day42,1.025427,Bolus,Fig2C-Red
+2016 Tam,Mouse_45,Day49,2.601015,Bolus,Fig2C-Red
+2016 Tam,Mouse_45,Day56,2.052151,Bolus,Fig2C-Red
+2016 Tam,Mouse_45,Day63,0.09786705,Bolus,Fig2C-Red
+2016 Tam,Mouse_45,Day77,0.3348513,Bolus,Fig2C-Red
+2016 Tam,Mouse_45,Day91,0.1,Bolus,Fig2C-Red
+2016 Tam,Mouse_46,Day7,0.7699653,Bolus,Fig2C-Red
+2016 Tam,Mouse_46,Day14,2.917899,Bolus,Fig2C-Red
+2016 Tam,Mouse_46,Day21,2.24421,Bolus,Fig2C-Red
+2016 Tam,Mouse_46,Day28,9.337754,Bolus,Fig2C-Red
+2016 Tam,Mouse_46,Day35,9.092009,Bolus,Fig2C-Red
+2016 Tam,Mouse_46,Day42,8.202265,Bolus,Fig2C-Red
+2016 Tam,Mouse_46,Day49,8.335614,Bolus,Fig2C-Red
+2016 Tam,Mouse_46,Day56,10.9957,Bolus,Fig2C-Red
+2016 Tam,Mouse_46,Day63,5.8068,Bolus,Fig2C-Red
+2016 Tam,Mouse_46,Day77,21.40837,Bolus,Fig2C-Red
+2016 Tam,Mouse_46,Day91,3.513979,Bolus,Fig2C-Red
+2016 Tam,Mouse_47,Day7,0.9603563,Bolus,Fig2C-Red
+2016 Tam,Mouse_47,Day14,2.160782,Bolus,Fig2C-Red
+2016 Tam,Mouse_47,Day21,1.680375,Bolus,Fig2C-Red
+2016 Tam,Mouse_47,Day28,4.258047,Bolus,Fig2C-Red
+2016 Tam,Mouse_47,Day35,5.879892,Bolus,Fig2C-Red
+2016 Tam,Mouse_47,Day42,5.563866,Bolus,Fig2C-Red
+2016 Tam,Mouse_47,Day49,5.01044,Bolus,Fig2C-Red
+2016 Tam,Mouse_47,Day56,6.466646,Bolus,Fig2C-Red
+2016 Tam,Mouse_47,Day63,5.16367,Bolus,Fig2C-Red
+2016 Tam,Mouse_47,Day77,1.532796,Bolus,Fig2C-Red
+2016 Tam,Mouse_47,Day91,1.477147,Bolus,Fig2C-Red
+2016 Tam,Mouse_48,Day7,0.2366343,Bolus,Fig2C-Red
+2016 Tam,Mouse_48,Day14,0.587392,Bolus,Fig2C-Red
+2016 Tam,Mouse_48,Day21,1.394806,Bolus,Fig2C-Red
+2016 Tam,Mouse_48,Day28,5.926659,Bolus,Fig2C-Red
+2016 Tam,Mouse_48,Day35,9.026318,Bolus,Fig2C-Red
+2016 Tam,Mouse_48,Day42,9.839554,Bolus,Fig2C-Red
+2016 Tam,Mouse_48,Day49,8.641075,Bolus,Fig2C-Red
+2016 Tam,Mouse_48,Day56,11.79516,Bolus,Fig2C-Red
+2016 Tam,Mouse_48,Day63,10.28031,Bolus,Fig2C-Red
+2016 Tam,Mouse_48,Day77,5.372367,Bolus,Fig2C-Red
+2016 Tam,Mouse_48,Day91,5.804266,Bolus,Fig2C-Red
+2016 Tam,Mouse_49,Day7,0.0210463,Bolus,Fig2C-Red
+2016 Tam,Mouse_49,Day14,2.903148,Bolus,Fig2C-Red
+2016 Tam,Mouse_49,Day21,1.377146,Bolus,Fig2C-Red
+2016 Tam,Mouse_49,Day28,3.857029,Bolus,Fig2C-Red
+2016 Tam,Mouse_49,Day35,8.170665,Bolus,Fig2C-Red
+2016 Tam,Mouse_49,Day42,8.067118,Bolus,Fig2C-Red
+2016 Tam,Mouse_49,Day49,23.71471,Bolus,Fig2C-Red
+2016 Tam,Mouse_49,Day56,31.81308,Bolus,Fig2C-Red
+2016 Tam,Mouse_49,Day63,13.49299,Bolus,Fig2C-Red
+2016 Tam,Mouse_49,Day77,5.776322,Bolus,Fig2C-Red
+2016 Tam,Mouse_49,Day91,5.797996,Bolus,Fig2C-Red
+2016 Tam,Mouse_50,Day7,0.1,Bolus,Fig2C-Red
+2016 Tam,Mouse_50,Day14,0.490111,Bolus,Fig2C-Red
+2016 Tam,Mouse_50,Day21,0.4514005,Bolus,Fig2C-Red
+2016 Tam,Mouse_50,Day28,8.057067,Bolus,Fig2C-Red
+2016 Tam,Mouse_50,Day35,14.24833,Bolus,Fig2C-Red
+2016 Tam,Mouse_50,Day42,12.16447,Bolus,Fig2C-Red
+2016 Tam,Mouse_50,Day49,13.48518,Bolus,Fig2C-Red
+2016 Tam,Mouse_50,Day56,33.40023,Bolus,Fig2C-Red
+2016 Tam,Mouse_50,Day63,15.6095,Bolus,Fig2C-Red
+2016 Tam,Mouse_50,Day77,11.27946,Bolus,Fig2C-Red
+2016 Tam,Mouse_50,Day91,9.422441,Bolus,Fig2C-Red
+2016 Tam,Mouse_51,Day7,0.0623823,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_51,Day14,0.1,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_51,Day21,0.1,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_51,Day28,0.1,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_51,Day35,1.115807,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_51,Day42,1.722887,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_51,Day49,1.938876,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_51,Day56,0.5407185,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_51,Day63,0.457884,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_51,Day77,0.1,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_51,Day91,0.1,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_52,Day7,0.1,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_52,Day14,0.905238,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_52,Day21,0.1901905,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_52,Day28,0.1,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_52,Day35,10.14305,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_52,Day42,27.62632,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_52,Day49,12.43471,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_52,Day56,27.41543,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_52,Day63,47.45133,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_52,Day77,23.03142,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_52,Day91,22.57694,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_53,Day7,0.1,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_53,Day14,-,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_53,Day21,0.1,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_53,Day28,0.1,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_53,Day35,0.1,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_53,Day42,0.1922721,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_53,Day49,10.23677,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_53,Day56,0.1,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_53,Day63,0.1,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_53,Day77,0.1,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_53,Day91,0.4521165,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_54,Day7,0.9157993,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_54,Day14,1.022765,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_54,Day21,0.8058765,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_54,Day28,1.141702,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_54,Day35,0.1,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_54,Day42,20.13402,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_54,Day49,28.83369,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_54,Day56,33.94056,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_54,Day63,32.53836,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_54,Day77,24.92964,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_54,Day91,25.94543,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_55,Day7,1.566728,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_55,Day14,0.7015759,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_55,Day21,0.1,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_55,Day28,0.2251527,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_55,Day35,3.65126,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_55,Day42,6.868835,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_55,Day49,12.7864,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_55,Day56,6.701519,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_55,Day63,10.85283,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_55,Day77,10.11606,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_55,Day91,6.03025,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_56,Day7,0.5196673,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_56,Day14,1.496611,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_56,Day21,0.8843365,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_56,Day28,0.9491407,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_56,Day35,15.93892,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_56,Day42,33.68837,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_56,Day49,29.58995,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_56,Day56,52.9869,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_56,Day63,39.41295,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_56,Day77,10.84713,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_56,Day91,18.48449,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_57,Day7,0.2342773,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_57,Day14,0.543852,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_57,Day21,0.3931645,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_57,Day28,0.3892387,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_57,Day35,26.7723,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_57,Day42,43.25552,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_57,Day49,44.30054,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_57,Day56,68.64944,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_57,Day63,36.73199,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_57,Day77,23.73227,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_57,Day91,14.40769,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_58,Day7,1.068241,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_58,Day14,1.133545,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_58,Day21,1.84727,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_58,Day28,1.13152,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_58,Day35,14.76154,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_58,Day42,15.28744,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_58,Day49,13.69482,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_58,Day56,24.85775,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_58,Day63,15.54921,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_58,Day77,9.038623,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_58,Day91,8.895191,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_59,Day7,0.1,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_59,Day14,0.4281409,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_59,Day21,0.4342065,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_59,Day28,0.1,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_59,Day35,23.44384,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_59,Day42,38.54752,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_59,Day49,49.27917,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_59,Day56,74.61265,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_59,Day63,58.76174,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_59,Day77,37.35865,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_59,Day91,33.1739,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_60,Day7,0.4302263,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_60,Day14,1.319262,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_60,Day21,0.2927135,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_60,Day28,0.9390607,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_60,Day35,7.17716,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_60,Day42,9.680984,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_60,Day49,6.854576,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_60,Day56,13.93755,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_60,Day63,7.342007,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_60,Day77,5.744718,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_60,Day91,4.780294,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_61,Day7,0.1,Exp Prime/Boost,Fig2F-Pink
+2016 Tam,Mouse_61,Day14,28.79469,Exp Prime/Boost,Fig2F-Pink
+2016 Tam,Mouse_61,Day21,77.81121,Exp Prime/Boost,Fig2F-Pink
+2016 Tam,Mouse_61,Day28,39.35182,Exp Prime/Boost,Fig2F-Pink
+2016 Tam,Mouse_61,Day35,28.44055,Exp Prime/Boost,Fig2F-Pink
+2016 Tam,Mouse_61,Day42,474.6508,Exp Prime/Boost,Fig2F-Pink
+2016 Tam,Mouse_61,Day49,570.38,Exp Prime/Boost,Fig2F-Pink
+2016 Tam,Mouse_61,Day56,368.3689,Exp Prime/Boost,Fig2F-Pink
+2016 Tam,Mouse_62,Day7,2.680779,Exp Prime/Boost,Fig2F-Pink
+2016 Tam,Mouse_62,Day14,61.29676,Exp Prime/Boost,Fig2F-Pink
+2016 Tam,Mouse_62,Day21,162.8204,Exp Prime/Boost,Fig2F-Pink
+2016 Tam,Mouse_62,Day28,31.35241,Exp Prime/Boost,Fig2F-Pink
+2016 Tam,Mouse_62,Day35,29.74012,Exp Prime/Boost,Fig2F-Pink
+2016 Tam,Mouse_62,Day42,607.5157,Exp Prime/Boost,Fig2F-Pink
+2016 Tam,Mouse_62,Day49,450.4861,Exp Prime/Boost,Fig2F-Pink
+2016 Tam,Mouse_62,Day56,455.3108,Exp Prime/Boost,Fig2F-Pink
+2016 Tam,Mouse_63,Day7,0.1,Exp Prime/Boost,Fig2F-Pink
+2016 Tam,Mouse_63,Day14,304.7862,Exp Prime/Boost,Fig2F-Pink
+2016 Tam,Mouse_63,Day21,136.3982,Exp Prime/Boost,Fig2F-Pink
+2016 Tam,Mouse_63,Day28,56.03549,Exp Prime/Boost,Fig2F-Pink
+2016 Tam,Mouse_63,Day35,52.95003,Exp Prime/Boost,Fig2F-Pink
+2016 Tam,Mouse_63,Day42,1238.749,Exp Prime/Boost,Fig2F-Pink
+2016 Tam,Mouse_63,Day49,1036.818,Exp Prime/Boost,Fig2F-Pink
+2016 Tam,Mouse_63,Day56,715.6763,Exp Prime/Boost,Fig2F-Pink
+2016 Tam,Mouse_64,Day7,0.1,Exp Prime/Boost,Fig2F-Pink
+2016 Tam,Mouse_64,Day14,46.05027,Exp Prime/Boost,Fig2F-Pink
+2016 Tam,Mouse_64,Day21,100.8399,Exp Prime/Boost,Fig2F-Pink
+2016 Tam,Mouse_64,Day28,38.72969,Exp Prime/Boost,Fig2F-Pink
+2016 Tam,Mouse_64,Day35,41.20255,Exp Prime/Boost,Fig2F-Pink
+2016 Tam,Mouse_64,Day42,537.5219,Exp Prime/Boost,Fig2F-Pink
+2016 Tam,Mouse_64,Day49,656.146,Exp Prime/Boost,Fig2F-Pink
+2016 Tam,Mouse_64,Day56,359.2228,Exp Prime/Boost,Fig2F-Pink
+2016 Tam,Mouse_65,Day7,0.1,Exp Prime/Boost,Fig2F-Pink
+2016 Tam,Mouse_65,Day14,73.98344,Exp Prime/Boost,Fig2F-Pink
+2016 Tam,Mouse_65,Day21,76.00111,Exp Prime/Boost,Fig2F-Pink
+2016 Tam,Mouse_65,Day28,31.74461,Exp Prime/Boost,Fig2F-Pink
+2016 Tam,Mouse_65,Day35,42.41388,Exp Prime/Boost,Fig2F-Pink
+2016 Tam,Mouse_65,Day42,607.9431,Exp Prime/Boost,Fig2F-Pink
+2016 Tam,Mouse_65,Day49,464.9641,Exp Prime/Boost,Fig2F-Pink
+2016 Tam,Mouse_65,Day56,411.0151,Exp Prime/Boost,Fig2F-Pink
+2016 Tam,Mouse_66,Day7,4.777283,Exp Increase 2wk,Fig2F-Purple
+2016 Tam,Mouse_66,Day14,188.7816,Exp Increase 2wk,Fig2F-Purple
+2016 Tam,Mouse_66,Day21,90.02423,Exp Increase 2wk,Fig2F-Purple
+2016 Tam,Mouse_66,Day28,63.76992,Exp Increase 2wk,Fig2F-Purple
+2016 Tam,Mouse_66,Day35,253.5651,Exp Increase 2wk,Fig2F-Purple
+2016 Tam,Mouse_66,Day42,343.3736,Exp Increase 2wk,Fig2F-Purple
+2016 Tam,Mouse_66,Day49,172.285,Exp Increase 2wk,Fig2F-Purple
+2016 Tam,Mouse_66,Day56,371.4219,Exp Increase 2wk,Fig2F-Purple
+2016 Tam,Mouse_67,Day7,14.45811,Exp Increase 2wk,Fig2F-Purple
+2016 Tam,Mouse_67,Day14,70.73802,Exp Increase 2wk,Fig2F-Purple
+2016 Tam,Mouse_67,Day21,92.14639,Exp Increase 2wk,Fig2F-Purple
+2016 Tam,Mouse_67,Day28,34.38642,Exp Increase 2wk,Fig2F-Purple
+2016 Tam,Mouse_67,Day35,199.2573,Exp Increase 2wk,Fig2F-Purple
+2016 Tam,Mouse_67,Day42,163.9377,Exp Increase 2wk,Fig2F-Purple
+2016 Tam,Mouse_67,Day49,325.2885,Exp Increase 2wk,Fig2F-Purple
+2016 Tam,Mouse_67,Day56,109.6471,Exp Increase 2wk,Fig2F-Purple
+2016 Tam,Mouse_68,Day7,0.124254,Exp Increase 2wk,Fig2F-Purple
+2016 Tam,Mouse_68,Day14,93.53616,Exp Increase 2wk,Fig2F-Purple
+2016 Tam,Mouse_68,Day21,40.03411,Exp Increase 2wk,Fig2F-Purple
+2016 Tam,Mouse_68,Day28,58.97023,Exp Increase 2wk,Fig2F-Purple
+2016 Tam,Mouse_68,Day35,248.5822,Exp Increase 2wk,Fig2F-Purple
+2016 Tam,Mouse_68,Day42,180.5445,Exp Increase 2wk,Fig2F-Purple
+2016 Tam,Mouse_68,Day49,155.4297,Exp Increase 2wk,Fig2F-Purple
+2016 Tam,Mouse_68,Day56,173.989,Exp Increase 2wk,Fig2F-Purple
+2016 Tam,Mouse_69,Day7,0.1,Exp Increase 2wk,Fig2F-Purple
+2016 Tam,Mouse_69,Day14,94.59493,Exp Increase 2wk,Fig2F-Purple
+2016 Tam,Mouse_69,Day21,12.56625,Exp Increase 2wk,Fig2F-Purple
+2016 Tam,Mouse_69,Day28,33.7765,Exp Increase 2wk,Fig2F-Purple
+2016 Tam,Mouse_69,Day35,403.6712,Exp Increase 2wk,Fig2F-Purple
+2016 Tam,Mouse_69,Day42,312.3097,Exp Increase 2wk,Fig2F-Purple
+2016 Tam,Mouse_69,Day49,146.5306,Exp Increase 2wk,Fig2F-Purple
+2016 Tam,Mouse_69,Day56,322.5318,Exp Increase 2wk,Fig2F-Purple
+2016 Tam,Mouse_70,Day7,0.916034,Exp Increase 2wk,Fig2F-Purple
+2016 Tam,Mouse_70,Day14,77.58456,Exp Increase 2wk,Fig2F-Purple
+2016 Tam,Mouse_70,Day21,16.327,Exp Increase 2wk,Fig2F-Purple
+2016 Tam,Mouse_70,Day28,64.39606,Exp Increase 2wk,Fig2F-Purple
+2016 Tam,Mouse_70,Day35,245.4128,Exp Increase 2wk,Fig2F-Purple
+2016 Tam,Mouse_70,Day42,212.7937,Exp Increase 2wk,Fig2F-Purple
+2016 Tam,Mouse_70,Day49,344.1155,Exp Increase 2wk,Fig2F-Purple
+2016 Tam,Mouse_70,Day56,186.4037,Exp Increase 2wk,Fig2F-Purple
+2016 Tam,Mouse_71,Day7,6.804521,Exp Boost,Fig2F-Gray
+2016 Tam,Mouse_71,Day14,17.45782,Exp Boost,Fig2F-Gray
+2016 Tam,Mouse_71,Day21,17.82315,Exp Boost,Fig2F-Gray
+2016 Tam,Mouse_71,Day28,54.96464,Exp Boost,Fig2F-Gray
+2016 Tam,Mouse_71,Day35,55.23149,Exp Boost,Fig2F-Gray
+2016 Tam,Mouse_71,Day42,162.7522,Exp Boost,Fig2F-Gray
+2016 Tam,Mouse_71,Day49,286.3189,Exp Boost,Fig2F-Gray
+2016 Tam,Mouse_71,Day56,219.6136,Exp Boost,Fig2F-Gray
+2016 Tam,Mouse_72,Day7,3.564354,Exp Boost,Fig2F-Gray
+2016 Tam,Mouse_72,Day14,13.60558,Exp Boost,Fig2F-Gray
+2016 Tam,Mouse_72,Day21,20.00962,Exp Boost,Fig2F-Gray
+2016 Tam,Mouse_72,Day28,6.037785,Exp Boost,Fig2F-Gray
+2016 Tam,Mouse_72,Day35,5.627005,Exp Boost,Fig2F-Gray
+2016 Tam,Mouse_72,Day42,153.2137,Exp Boost,Fig2F-Gray
+2016 Tam,Mouse_72,Day49,84.10667,Exp Boost,Fig2F-Gray
+2016 Tam,Mouse_72,Day56,136.8963,Exp Boost,Fig2F-Gray
+2016 Tam,Mouse_73,Day7,1.046303,Exp Boost,Fig2F-Gray
+2016 Tam,Mouse_73,Day14,21.91613,Exp Boost,Fig2F-Gray
+2016 Tam,Mouse_73,Day21,12.80836,Exp Boost,Fig2F-Gray
+2016 Tam,Mouse_73,Day28,7.192798,Exp Boost,Fig2F-Gray
+2016 Tam,Mouse_73,Day35,10.03311,Exp Boost,Fig2F-Gray
+2016 Tam,Mouse_73,Day42,84.60548,Exp Boost,Fig2F-Gray
+2016 Tam,Mouse_73,Day49,165.6495,Exp Boost,Fig2F-Gray
+2016 Tam,Mouse_73,Day56,117.3217,Exp Boost,Fig2F-Gray
+2016 Tam,Mouse_74,Day7,4.578537,Exp Boost,Fig2F-Gray
+2016 Tam,Mouse_74,Day14,35.09439,Exp Boost,Fig2F-Gray
+2016 Tam,Mouse_74,Day21,11.95703,Exp Boost,Fig2F-Gray
+2016 Tam,Mouse_74,Day28,9.554059,Exp Boost,Fig2F-Gray
+2016 Tam,Mouse_74,Day35,7.304775,Exp Boost,Fig2F-Gray
+2016 Tam,Mouse_74,Day42,62.13013,Exp Boost,Fig2F-Gray
+2016 Tam,Mouse_74,Day49,171.4763,Exp Boost,Fig2F-Gray
+2016 Tam,Mouse_74,Day56,58.17552,Exp Boost,Fig2F-Gray
+2016 Tam,Mouse_75,Day7,5.076205,Exp Boost,Fig2F-Gray
+2016 Tam,Mouse_75,Day14,6.245463,Exp Boost,Fig2F-Gray
+2016 Tam,Mouse_75,Day21,15.41462,Exp Boost,Fig2F-Gray
+2016 Tam,Mouse_75,Day28,14.47545,Exp Boost,Fig2F-Gray
+2016 Tam,Mouse_75,Day35,19.55552,Exp Boost,Fig2F-Gray
+2016 Tam,Mouse_75,Day42,31.99637,Exp Boost,Fig2F-Gray
+2016 Tam,Mouse_75,Day49,279.0979,Exp Boost,Fig2F-Gray
+2016 Tam,Mouse_75,Day56,243.1571,Exp Boost,Fig2F-Gray
+2016 Tam,Mouse_76,Day7,1.770895,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_76,Day14,8.227805,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_76,Day21,42.21231,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_76,Day28,4.080253,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_76,Day35,41.26534,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_76,Day42,50.27418,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_76,Day49,61.08644,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_76,Day56,39.39009,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_77,Day7,3.147854,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_77,Day14,19.21601,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_77,Day21,16.99889,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_77,Day28,3.752656,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_77,Day35,46.57581,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_77,Day42,51.82594,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_77,Day49,129.625,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_77,Day56,42.60504,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_78,Day7,4.232734,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_78,Day14,40.56384,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_78,Day21,0.1,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_78,Day28,6.479828,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_78,Day35,135.2218,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_78,Day42,140.2953,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_78,Day49,146.6287,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_78,Day56,93.34428,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_79,Day7,9.253855,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_79,Day14,15.70716,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_79,Day21,1.768363,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_79,Day28,25.78664,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_79,Day35,136.5124,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_79,Day42,135.1518,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_79,Day49,53.5628,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_79,Day56,93.93203,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_80,Day7,2.645193,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_80,Day14,0.1,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_80,Day21,0.1,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_80,Day28,5.811564,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_80,Day35,66.3285,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_80,Day42,90.40627,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_80,Day49,45.68603,Boost d28,Fig2C-Brown
+2016 Tam,Mouse_80,Day56,55.22795,Boost d28,Fig2C-Brown
