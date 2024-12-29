@@ -58,17 +58,13 @@ A machine learning approach to uncover nonlinear relationships in the data. Usin
 ---
 
 ## **Repository Structure**
-📂 Experiment-Based-on-Tam-Dataset/
-├── README.md                           # Project documentation
-├── final_model.py                      # Final Python script for analysis
-├── run_code.py                         # Script to execute models and generate results
-├── Linear_model.R                      # R script for Linear Regression analysis
-├── Result_Plots/                       # Folder containing generated visualizations
-│   ├── arima_predictions_with_measured.png   # ARIMA model predictions with measured data
-│   ├── gbm_predictions_with_measured.png     # GBM model predictions with measured data
-│   ├── linear_model_vaccine_schemes.png      # Linear regression results for vaccine schemes
-│   ├── model_performance_comparison.png      # Performance comparison plot across models
-└── .gitignore                          # File specifying ignored files and directories for Git
+- **Linear_model.R**: R script for linear regression modeling and visualization.
+- **final_model.py**: Python script implementing ARIMA and GBM models.
+- **run_code.py**: Workflow for running the entire analysis pipeline.
+- **Result_Plots/**: Generated plots comparing measured vs. predicted responses.
+- **README.md**: Project overview and documentation.
+
+---
 
 ## **References**
 Tam, H. H., Melo, M. B., Kang, M., Pelet, J. M., Ruda, V. M., Foley, M. H., Hu, J. K., Kumari, S., Crampton, J., Baldeon, A. D., et al. (2016). Sustained antigen availability during germinal center initiation enhances antibody responses to vaccination. *PNAS, 113*(43). [https://doi.org/10.1073/pnas.1606050113](https://doi.org/10.1073/pnas.1606050113)
