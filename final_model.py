@@ -46,7 +46,7 @@ class VaccinePredictionModel:
         self.debug = debug
 
         # Use a specific style for plotting.
-        plt.style.use('ggplot')
+        plt.style.use('default')
         print("\n[Start] Initialization completed")
 
     def preprocess_time_series(self, series, scheme_name="Unknown"):
@@ -203,6 +203,9 @@ class VaccinePredictionModel:
                 print(f"ARIMA model training failed ({scheme}): {e}")
 
             # ========== GBM (Gradient Boosting) ==========
+            from sklearn.model_selection import GridSearchCV
+
+            # ========== GBM (Gradient Boosting) ==========
             try:
                 # Prepare training sequences using a sliding window approach of size 5.
                 X, y = [], []
@@ -218,14 +221,31 @@ class VaccinePredictionModel:
                     print(f"!!! Warning: {scheme} data is insufficient for GBM training.")
                     continue
 
-                # Initialize and train the Gradient Boosting Regressor.
-                gbm = GradientBoostingRegressor(
-                    n_estimators=100,
-                    learning_rate=0.1,
-                    max_depth=3,
-                    random_state=42
+                # Define hyperparameter grid for tuning
+                param_grid = {
+                    'n_estimators': [50, 100, 150],
+                    'learning_rate': [0.01, 0.1, 0.2],
+                    'max_depth': [2, 3, 4]
+                }
+
+                # Initialize the GBM model
+                gbm = GradientBoostingRegressor(random_state=42)
+
+                # Perform grid search
+                grid_search = GridSearchCV(
+                    estimator=gbm,
+                    param_grid=param_grid,
+                    scoring='neg_mean_squared_error',
+                    cv=3,  # 3-fold cross-validation
+                    verbose=1,
+                    n_jobs=-1  # Use all available cores
                 )
-                gbm.fit(X, y)
+
+                # Fit the grid search to the data
+                grid_search.fit(X, y)
+
+                # Retrieve the best estimator after grid search
+                best_gbm = grid_search.best_estimator_
 
                 # Perform forecasting by rolling the window forward one step at a time.
                 gbm_pred = []
@@ -233,7 +253,7 @@ class VaccinePredictionModel:
                 # Start with the last 'window_size' points from the training data.
                 current_sequence = train_data[-window_size:].copy()
                 for _ in range(test_size + 14):
-                    pred_val = gbm.predict(current_sequence.reshape(1, -1))
+                    pred_val = best_gbm.predict(current_sequence.reshape(1, -1))
                     gbm_pred.append(pred_val[0])
 
                     # Shift the window by one and add the new prediction at the end.
@@ -250,11 +270,12 @@ class VaccinePredictionModel:
                 self.model_metrics['GBM']['MAE'].append(mae)
 
                 if self.debug:
+                    print(f"    [GBM] Best Params: {grid_search.best_params_}")
                     print(f"    [GBM] First few predictions: {np.round(gbm_pred[:5], 3)}")
             except Exception as e:
                 print(f"GBM model training failed ({scheme}): {e}")
 
-        print("- Model training completed")
+            print("- Model training completed")
 
     def calculate_overall_performance(self):
         """
@@ -393,10 +414,10 @@ class VaccinePredictionModel:
                          alpha=0.7)
 
             # Configure and save the figure for this model.
-            plt.title(f'{model_name} Model - Vaccine Schemes Prediction (No Scaling)')
-            plt.xlabel('Days')
-            plt.ylabel('Binding Value')
-            plt.legend(bbox_to_anchor=(1.05, 1), loc='upper left')
+            plt.title(f'{model_name} Model - Vaccine Schemes Prediction', fontsize=16, fontweight="bold")
+            plt.xlabel('Days', fontsize=14)
+            plt.ylabel("Binding Value", fontsize=14)
+            plt.legend(bbox_to_anchor=(1.05, 1), loc="upper left", fontsize=10)
             plt.grid(True, alpha=0.3)
             plt.tight_layout()
             plt.savefig(f'{model_name.lower()}_predictions_with_measured.png', dpi=300, bbox_inches='tight')
