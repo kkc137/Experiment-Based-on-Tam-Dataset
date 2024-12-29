@@ -39,14 +39,6 @@ A machine learning approach to uncover nonlinear relationships in the data. Usin
 
 ## **Results**
 ### Model Performance Summary
-
-| Vaccine Scheme | RMSE   | MAE   | Slope | Intercept |
-|----------------|--------|-------|-------|-----------|
-| **Exp-Inc**    | 113.63 | 29.84 | 0.16  | 15.54*    |
-| **Exp-Dec**    | 38.63  | 7.84  | 0.04  | 4.11      |
-| **Constant**   | 6.46   | 6.93  | 0.04  | 7.99*     |
-| **Bolus**      | 13.04  | 9.97* | 0.07* | 2.68      |
-
 - **Linear Regression:** Weak fits with limited predictability.
 - **ARIMA:** Captured general trends but failed to enforce biological constraints.
 - **GBM:** More accurate in stable scenarios but struggled with dynamic patterns.
