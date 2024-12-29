@@ -70,7 +70,7 @@ A machine learning approach to uncover nonlinear relationships in the data. Usin
 │   ├── linear_model_vaccine_schemes.png      # Linear regression results for vaccine schemes
 │   ├── model_performance_comparison.png      # Performance comparison plot across models
 └── .gitignore                          # File specifying ignored files and directories for Git
-
+```
 
 ## **References**
 Tam, H. H., Melo, M. B., Kang, M., Pelet, J. M., Ruda, V. M., Foley, M. H., Hu, J. K., Kumari, S., Crampton, J., Baldeon, A. D., et al. (2016). Sustained antigen availability during germinal center initiation enhances antibody responses to vaccination. *PNAS, 113*(43). [https://doi.org/10.1073/pnas.1606050113](https://doi.org/10.1073/pnas.1606050113)
