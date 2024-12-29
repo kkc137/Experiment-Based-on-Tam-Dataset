@@ -60,12 +60,13 @@ A machine learning approach to uncover nonlinear relationships in the data. Usin
 ## **Repository Structure**
 ```plaintext
 📂 Experiment-Based-on-Tam-Dataset/
-├── README.md                     # Project documentation
-├── final_model.py                # Final Python script for analysis
-├── run_code.py                   # Script to run models and generate results
-├── Linear_model.R                # R script for Linear Regression
-├── Result_Plots/                 # Folder containing generated plots
-│   ├── arima_predictions.png
-│   ├── gbm_predictions.png
-│   ├── model_performance.png
-└── .gitignore                    # Git ignore file
+├── README.md                           # Project documentation
+├── final_model.py                      # Final Python script for analysis
+├── run_code.py                         # Script to execute models and generate results
+├── Linear_model.R                      # R script for Linear Regression analysis
+├── Result_Plots/                       # Folder containing generated visualizations
+│   ├── arima_predictions_with_measured.png   # ARIMA model predictions with measured data
+│   ├── gbm_predictions_with_measured.png     # GBM model predictions with measured data
+│   ├── linear_model_vaccine_schemes.png      # Linear regression results for vaccine schemes
+│   ├── model_performance_comparison.png      # Performance comparison plot across models
+└── .gitignore                          # File specifying ignored files and directories for Git
